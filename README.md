@@ -8,6 +8,7 @@ Following steps are necessary for deployment of CDT source:
 
 1. Create 'CDT Business Hours' Business Hours entry under setup and set it as Active.
 2. Turn on Email Deliverability setting to 'All Emails', this is required for some test classes to pass.
+3. Enable Chatter
 
 ## Post-Deployment
 
